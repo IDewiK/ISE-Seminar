@@ -1,0 +1,2 @@
+cd run
+python train_MMtransE_ise_seminar.py
